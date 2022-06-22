@@ -60,6 +60,10 @@ src="https://img.shields.io/github/followers/AlhassanMousa?logo=github&style=for
 <a href="https://github.com/AlhassanMousa"><img src="https://github-readme-stats.vercel.app/api?username=AlhassanMousa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alhassan's GitHub stats" /></a>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlhassanMousa&show_icons=true&locale=en" alt="AlhassanMousa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlhassanMousa&" alt="AlhassanMousa" /></p>
+
 
 
 
