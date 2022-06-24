@@ -15,6 +15,7 @@ Junior Full Stack Web Developer
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [Alhassan Mousa](https://alhassan.vercel.app/)
+* :scroll:  See my resume at [Alhassan Mousa](https://alhassan.vercel.app/resume)
 * ✉️  You can contact me at [AlhassanMousa97@gmail.com](mailto:AlhassanMousa97@gmail.com)
 
 
