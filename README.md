@@ -23,7 +23,7 @@ Junior Full Stack Web Developer
 
 
 <a href="https://www.twitter.com/AlhassanMousa97" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AlhassanMousa97?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/AlhassanMousa97?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/AlhassanMousa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AlhassanMousa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
