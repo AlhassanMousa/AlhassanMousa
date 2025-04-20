@@ -1,7 +1,7 @@
 Hi 👋 My name is Alhassan Mousa
 ==============================
 
-Junior React | React Native Developer
+React | React Native Developer
 ------------------------
 
 
