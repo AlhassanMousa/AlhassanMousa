@@ -104,7 +104,7 @@ Coming soon! Check out my repositories below for my latest work.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/AlhassanMousa/AlhassanMousa/output/github-contribution-grid-snake-dark.svg)
+[![My user statistics](images/userstats.svg)](https://github.com/alhassanmousa/user-statistician)
 
 </div>
 
