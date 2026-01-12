@@ -104,7 +104,7 @@ Coming soon! Check out my repositories below for my latest work.
 
 <div align="center">
 
-[![My user statistics](images/userstats.svg)](https://github.com/AlhassanMousa/user-statistician)
+![My user statistics](images/userstats.svg)
 
 </div>
 
